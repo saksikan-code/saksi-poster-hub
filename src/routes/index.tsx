@@ -91,7 +91,7 @@ function Index() {
               POSTERS THAT <span className="text-primary">HIT HARDER</span> THAN THE MOVIE.
             </h1>
             <p className="mt-5 max-w-lg text-base text-muted-foreground md:text-lg">
-              Cinematic. Devotional. Automotive. Minimal. Premium framed prints curated for true fans — delivered island-wide.
+              Cinematic. Devotional. Automotive. Minimal. Premium framed prints curated for அன்பான fans — delivered island-wide.
             </p>
             <div className="mt-7 flex flex-wrap gap-3">
               <a href="#shop" className="inline-flex items-center gap-2 rounded-md bg-primary px-6 py-3 text-sm font-bold uppercase tracking-wider text-primary-foreground hover:opacity-90">
