@@ -6,7 +6,7 @@ export function SiteFooter() {
     <footer className="mt-24 border-t border-border bg-card/40">
       <div className="mx-auto grid max-w-7xl gap-8 px-4 py-12 md:grid-cols-3 md:px-8">
         <div>
-          <div className="display text-3xl font-black">SAKSI POSTER HUB</div>
+          <div className="display text-3xl font-black">SAKSI POSTER HUB GOD MODE BEGINS   </div>
           <p className="mt-2 max-w-sm text-sm text-muted-foreground">Premium cinematic, devotional, automotive & minimal posters — handpicked & framed for அன்பான fans.</p>
         </div>
         <div>
