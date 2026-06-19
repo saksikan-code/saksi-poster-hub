@@ -85,7 +85,7 @@ function Index() {
         <div className="mx-auto grid max-w-7xl items-center gap-10 px-4 py-20 md:grid-cols-2 md:px-8 md:py-28">
           <div>
             <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-primary/40 bg-primary/10 px-3 py-1 text-xs uppercase tracking-[0.25em] text-primary">
-              <Sparkles className="h-3 w-3" /> New drops every week
+              <Sparkles className="h-3 w-3" /> New  Bangers drops every week
             </div>
             <h1 className="display text-5xl font-black leading-[0.95] md:text-7xl">
               POSTERS THAT <span className="text-primary">HIT HARDER</span> THAN THE MOVIE.
