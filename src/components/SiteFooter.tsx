@@ -7,7 +7,7 @@ export function SiteFooter() {
       <div className="mx-auto grid max-w-7xl gap-8 px-4 py-12 md:grid-cols-3 md:px-8">
         <div>
           <div className="display text-3xl font-black">SAKSI POSTER HUB</div>
-          <p className="mt-2 max-w-sm text-sm text-muted-foreground">Premium cinematic, devotional, automotive & minimal posters — handpicked & framed for true fans.</p>
+          <p className="mt-2 max-w-sm text-sm text-muted-foreground">Premium cinematic, devotional, automotive & minimal posters — handpicked & framed for அன்பான fans.</p>
         </div>
         <div>
           <div className="mb-3 text-xs uppercase tracking-[0.3em] text-muted-foreground">Contact</div>
